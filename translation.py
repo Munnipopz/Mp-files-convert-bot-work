@@ -5,7 +5,7 @@ class Translation(object):
 
       START = """Hello {0}
 
-I am a converter clone of [Convert Ns Bot](https://telegram.dog/mpazaanbot) by {1}
+I am a converter clone of [MPAZAAN](https://telegram.dog/mpazaanbot) by {1}
 
 I can convert file to video or video to file with custom thumbnail support.
 
@@ -25,7 +25,7 @@ Click /help and check /about
 
 4. Reply to file /converttovideo for converting into video.
 
-**SUPPORT GROUP:** [NS Bot Supporters](https://telegram.dog/mpazaanbot)
+**SUPPORT GROUP:** [Bot Supporters](https://telegram.dog/mpazaanbot)
 """
 
 
